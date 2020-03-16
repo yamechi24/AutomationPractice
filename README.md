@@ -6,11 +6,12 @@ Automation Practice is an automation suite for the e-commerce site http://automa
 
 ---
 ### Technologies used
+* Java language
 * Eclipse IDE
 * JDK 12.0.2
 * Selenium Webdriver
 * Maven dependencies
-  - selenium-java dependency
+  - Selenium-java dependency
   - JUnit Apache maven dependency
  
  ---
@@ -20,7 +21,7 @@ Automation Practice is an automation suite for the e-commerce site http://automa
  2. Open Eclipse IDE, click on File->Open Projects from File System...
  3. In the 'Import source' field, search for the path by clicking the 'Directory' button and select the path where you saved the project unzipped, click on finish.
  4. Right click on the 'AutomationPracticeQA' folder project and select Maven->Update project (this will download missing libraries)
- 5. Open the 'ContactForm_Test file that is inside AutomationPracticeQA->src/test/java->com.automationpractice.pom->ContactForm_Test.java
+ 5. Open the 'ContactForm_Test' file that is inside AutomationPracticeQA->src/test/java->com.automationpractice.pom->ContactForm_Test.java
  6. Right click inside the file, select Run As-1JUnit Test and test will run
  
  
